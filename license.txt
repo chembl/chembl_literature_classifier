@@ -1,0 +1,4 @@
+# Written by Gerard van Westen, gerardvw@ebi.ac.uk  and George Papadatos, georgep@ebi.ac.uk   
+# © EMBL-EBI 2014
+# Licensed under Apache General License 2.0
+# If you plan to modify and redistribute this protocol please contact the original authors
